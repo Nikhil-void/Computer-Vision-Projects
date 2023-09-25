@@ -16,10 +16,13 @@ Our task is:
 
 ## Input Data
 1. Input images silhouette and coloured
+ Some examples
+![Input colored]( https://github.com/Nikhil-void/Computer-Vision-Projects/blob/main/Visual%20Hull%203D%20Surface%20Estimation/input_data/actual_images/cam00_00023_0000008550.png)
 
-![Sterio Image Left]( https://github.com/Nikhil-void/Computer-Vision-Projects/blob/main/DepthMap%20Estimation%20from%20Sterio/Output_Images/Sterio_Image_1.jpg)
+![Input colored]( https://github.com/Nikhil-void/Computer-Vision-Projects/blob/main/Visual%20Hull%203D%20Surface%20Estimation/input_data/actual_images/cam02_00023_0000008550.png)
 
-![ Sterio Image Right]( https://github.com/Nikhil-void/Computer-Vision-Projects/blob/main/DepthMap%20Estimation%20from%20Sterio/Output_Images/Sterio_Image_0.jpg)
+2. Camera calibration matrix
            
 ## Output
- ![Depth Map]( https://github.com/Nikhil-void/Computer-Vision-Projects/blob/main/DepthMap%20Estimation%20from%20Sterio/Output_Images/Sterio_Disparity_Amplified.jpeg)
+1. 3D Textured model
+ ![3D Texured model]( https://github.com/Nikhil-void/Computer-Vision-Projects/blob/main/Visual%20Hull%203D%20Surface%20Estimation/Output_data/Textured_3d_model.gif)
