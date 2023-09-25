@@ -13,4 +13,5 @@ We use contour detection techniques to find the answer options and then check wh
 
 
 ## Example
- ![Graded Test]( https://github.com/Nikhil-void/Computer-Vision-Projects/blob/main/Bubble%20Test%20Auto%20Grader/example.jpg)
+ ![Graded Test](https://github.com/Nikhil-void/Computer-Vision-Projects/blob/main/Bubble%20Test%20Auto%20Grader/example.JPG)
+             
